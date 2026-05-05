@@ -7,4 +7,4 @@
 ✅ Use the ```train_sim.py``` script to further pre-train multilingual BERT (mBERT) with an extended vocabulary which are initialized represented using our method;<br>
 ✅ Evaluate the extended models on the [XTREME](https://dl.acm.org/doi/10.5555/3524938.3525348) benchmark. 
 
-❗The models can be available at:https://drive.google.com/drive/folders/1ZRHfdMcqtnlfyvLszrZ_s5bOCccfL1tW?usp=drive_link
+😊The models can be available:https://drive.google.com/drive/folders/1ZRHfdMcqtnlfyvLszrZ_s5bOCccfL1tW?usp=drive_link
